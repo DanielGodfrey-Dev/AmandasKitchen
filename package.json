@@ -1,0 +1,16 @@
+{
+  "name": "amandaskitchen",
+  "version": "1.0.0",
+  "description": "Kitchen Ordering App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Mobile",
+    "Kitchen",
+    "Family"
+  ],
+  "author": "Daniel Godfrey",
+  "license": "ISC"
+}
