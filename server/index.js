@@ -9,5 +9,5 @@ app.use(express.urlencoded({
 }));
 
 app.listen(port, () => {
-  console.log(`Vector app listening on port ${port}`)
+  console.log(`Amands's Kitchen app listening on port ${port}`)
 })
